@@ -4,5 +4,4 @@
 * If you knew, **good for you!**
 
 To run the code in this project, you require an installation of Python (Anaconda is **more awesome**), Keras, Tensorflow and probably
-a lot of processing power. (**SERIOUSLY**) 
-
+a lot of processing power. (**SERIOUSLY!!**) 
